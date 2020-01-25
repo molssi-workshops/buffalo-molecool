@@ -23,3 +23,7 @@ and type
 `pip install -e .`
 
 in the repository directory
+
+This package requires the following:
+    - numpy
+    - matplotlib
