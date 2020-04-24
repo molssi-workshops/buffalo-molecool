@@ -7,6 +7,7 @@ molecool
 
 This is an example of a CMS python package created for the Buffalo 2020 Bootcamp
 
+Test
 ### Copyright
 
 Copyright (c) 2020, Ben Pritchard
